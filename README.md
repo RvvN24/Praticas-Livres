@@ -14,11 +14,11 @@
 
 
 <figcaption>Aberto em computador</figcaption>
-<img src="https://raw.githubusercontent.com/RvvN24/Projeto-Livre-Pratica/123630b573a9a4d0e5dda98e953b4c2036280b3f/materais/Screenshot%202024-02-02%20105858.png" alt=PC-LOGO>
+<img src="https://github.com/RvvN24/Praticas-Livres/blob/master/materais/Screenshot%202024-02-02%20105858.png?raw=true" alt=PC-LOGO>
 
 <figcaption>Portrait</figcaption>
-<img src="https://github.com/RvvN24/Projeto-Livre-Pratica/blob/master/materais/Screenshot%202024-02-02%20105926.png?raw=true" alt=Portrait-LOGO>
+<img src="https://github.com/RvvN24/Praticas-Livres/blob/master/materais/Screenshot%202024-02-02%20105926.png?raw=true" alt=Portrait-LOGO>
 
 <figcaption>Landscape</figcaption>
-<img src="https://github.com/RvvN24/Projeto-Livre-Pratica/blob/master/materais/Screenshot%202024-02-02%20105938.png?raw=true" alt=Landscape-LOGO>
+<img src="https://github.com/RvvN24/Praticas-Livres/blob/master/materais/Screenshot%202024-02-02%20105938.png?raw=true" alt=Landscape-LOGO>
 
