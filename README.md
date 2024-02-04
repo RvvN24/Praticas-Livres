@@ -1,7 +1,7 @@
 <h1 align="center">✅ Prática Livre</h1>
 
 <p>✅Gostaria de compartilhar, após finalizar módulo HTML e CSS PT1e2. 
-  Decidi mostrar uma prática livre, das diversas que venho fazendo para fixar os conhecimentos.</p> <br>
+  Decidi mostrar uma prática livre, das diversas que venho fazendo para fixar os conhecimentos. Simulei responsividade mobile modo facebook on android</p> <br>
 
   Ganhando conhecimento e adquirindo habilidades:<br>
 <a href="https://rodolfomori.com.br/devclub/"><img src="https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/elementor/thumbs/LOGO_1-pl6s0w83bob17fyv2myc9hccfjkrd6md916y3lfbcg.png.webp"  width=40px alt="DevClubLOGO">
